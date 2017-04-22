@@ -1,0 +1,5 @@
+Flask==0.12.1
+zappa==0.41.0
+
+# To be overwritten by lambda-packages:
+tensorflow
